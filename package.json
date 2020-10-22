@@ -1,0 +1,26 @@
+{
+  "name": "appvilca",
+  "version": "1.0.0",
+  "description": "es el primero proyecto de nodejs",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celio21/Primero-NodeJS.git"
+  },
+  "author": "Celio Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Celio21/Primero-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Celio21/Primero-NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6",
+    "mongose": "0.0.2-security",
+    "nodemon": "^2.0.4"
+  }
+}
